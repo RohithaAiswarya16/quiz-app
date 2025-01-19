@@ -10,6 +10,8 @@ This quiz app allows users to take a multiple-choice quiz with a set of question
 - Navigation through the questions with options to go back and forth.
 - A final report showing the user's score and correct answers after completing the quiz.
 
+### You can try the deployed version of the app here: **[Deployed Quiz App](https://quiz-app-rohitha-aiswarya-dora-hanumanthus-projects.vercel.app/).**
+
 ### Key Features
 - **Timer**: The app features a countdown timer, indicating time remaining to complete the quiz. The timer color changes to reflect urgency (green, yellow, red).
 - **Navigation**: Users can navigate between questions and see which questions they've answered or visited.
